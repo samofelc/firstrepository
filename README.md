@@ -1,1 +1,1 @@
-# firstrepository
+# Namizna aplikacija [Kviz]
